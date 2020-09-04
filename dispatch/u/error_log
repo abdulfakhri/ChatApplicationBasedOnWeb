@@ -1,0 +1,21 @@
+[25-Feb-2020 22:57:41 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/dispatch/u/signin_ow.php on line 83
+[25-Feb-2020 23:00:17 America/New_York] PHP Notice:  Undefined index: email in /home/aidifxin/cloud/dispatch/u/signin_ow.php on line 9
+[25-Feb-2020 23:00:17 America/New_York] PHP Notice:  Undefined index: username in /home/aidifxin/cloud/dispatch/u/signin_ow.php on line 11
+[25-Feb-2020 23:00:17 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/dispatch/u/signin_ow.php on line 83
+[26-Feb-2020 05:30:18 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/dispatch/u/signin_ow.php on line 83
+[26-Feb-2020 05:30:41 America/New_York] PHP Notice:  Undefined index: email in /home/aidifxin/cloud/dispatch/u/signin_ow.php on line 9
+[26-Feb-2020 05:30:41 America/New_York] PHP Notice:  Undefined index: username in /home/aidifxin/cloud/dispatch/u/signin_ow.php on line 11
+[26-Feb-2020 05:30:41 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/dispatch/u/signin_ow.php on line 83
+[26-Feb-2020 11:22:59 UTC] PHP Notice:  Undefined variable: reg in /home/bnsznyem/cloud.regrowup.com/dispatch/u/signin_ow.php on line 83
+[26-Feb-2020 11:22:59 UTC] PHP Stack trace:
+[26-Feb-2020 11:22:59 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/u/signin_ow.php:0
+[26-Feb-2020 11:23:25 UTC] PHP Notice:  Undefined index: email in /home/bnsznyem/cloud.regrowup.com/dispatch/u/signin_ow.php on line 9
+[26-Feb-2020 11:23:25 UTC] PHP Stack trace:
+[26-Feb-2020 11:23:25 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/u/signin_ow.php:0
+[26-Feb-2020 11:23:25 UTC] PHP Notice:  Undefined index: username in /home/bnsznyem/cloud.regrowup.com/dispatch/u/signin_ow.php on line 11
+[26-Feb-2020 11:23:25 UTC] PHP Stack trace:
+[26-Feb-2020 11:23:25 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/u/signin_ow.php:0
+[26-Feb-2020 11:23:25 UTC] PHP Notice:  Undefined variable: reg in /home/bnsznyem/cloud.regrowup.com/dispatch/u/signin_ow.php on line 83
+[26-Feb-2020 11:23:25 UTC] PHP Stack trace:
+[26-Feb-2020 11:23:25 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/u/signin_ow.php:0
+[03-Mar-2020 11:09:50 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/dispatch/u/signin_ow.php on line 83
